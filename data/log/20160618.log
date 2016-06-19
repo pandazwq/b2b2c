@@ -1,0 +1,30 @@
+[2016-06-18 11:40:51] /mobile/index.php?act=goods&op=goods_list&keyword=&page=10&curpage=1 ( act=goods&op=goods_list ) 
+ERR: Db Error: Unknown column 'goods_id' in 'order clause'
+SELECT COUNT(*) AS nc_count FROM `33hao_goods_common` WHERE ( store_id = '1' ) AND ( goods_state = '1' ) AND ( goods_verify = '1' ) GROUP BY nc_distinct ORDER BY is_own_shop desc,goods_id desc LIMIT 1  
+[2016-06-18 11:42:54] /mobile/index.php?act=goods&op=goods_list&keyword=&page=10&curpage=1 ( act=goods&op=goods_list ) 
+ERR: Db Error: Unknown column 'goods_id' in 'order clause'
+SELECT COUNT(*) AS nc_count FROM `33hao_goods_common` WHERE ( store_id = '1' ) AND ( goods_state = '1' ) AND ( goods_verify = '1' ) GROUP BY nc_distinct ORDER BY is_own_shop desc,goods_id desc LIMIT 1  
+[2016-06-18 11:44:28] /mobile/index.php?act=goods&op=goods_list&keyword=&page=10&curpage=1 ( act=goods&op=goods_list ) 
+ERR: Db Error: Unknown column 'goods_id' in 'order clause'
+SELECT COUNT(*) AS nc_count FROM `33hao_goods_common` WHERE ( store_id = '1' ) AND ( goods_state = '1' ) AND ( goods_verify = '1' ) GROUP BY nc_distinct ORDER BY is_own_shop desc,goods_id desc LIMIT 1  
+[2016-06-18 11:44:46] /mobile/index.php?act=goods&op=goods_list&keyword=&page=10&curpage=1 ( act=goods&op=goods_list ) 
+ERR: Db Error: Unknown column 'goods_id' in 'order clause'
+SELECT COUNT(*) AS nc_count FROM `33hao_goods_common` WHERE ( store_id = '1' ) AND ( goods_state = '1' ) AND ( goods_verify = '1' ) GROUP BY nc_distinct ORDER BY is_own_shop desc,goods_id desc LIMIT 1  
+[2016-06-18 11:46:54] /mobile/index.php?act=goods&op=goods_list&keyword=&page=10&curpage=1 ( act=goods&op=goods_list ) 
+ERR: Db Error: Unknown column 'goods_id' in 'order clause'
+SELECT COUNT(*) AS nc_count FROM `33hao_goods_common` WHERE ( store_id = '1' ) AND ( goods_state = '1' ) AND ( goods_verify = '1' ) GROUP BY nc_distinct ORDER BY is_own_shop desc,goods_id desc LIMIT 1  
+[2016-06-18 12:04:29] /mobile/index.php?act=member_favorites&op=favorites_list&key=699b742d56c360027a4183872985f095&curpage=1&page=10 ( act=member_favorites&op=favorites_list ) 
+ERR: Db Error: Unknown column 'is_book' in 'where clause'
+SELECT goods_id,goods_name,goods_price,goods_image,store_id FROM `33hao_goods` WHERE ( goods_id IN('') ) AND ( is_book = '0' ) LIMIT 1000  
+[2016-06-18 12:05:25] /mobile/index.php?act=goods&op=goods_list&keyword=&page=10&curpage=1 ( act=goods&op=goods_list ) 
+ERR: Db Error: Unknown column 'goods_id' in 'order clause'
+SELECT COUNT(*) AS nc_count FROM `33hao_goods_common` WHERE ( store_id = '1' ) AND ( goods_state = '1' ) AND ( goods_verify = '1' ) GROUP BY nc_distinct ORDER BY is_own_shop desc,goods_id desc LIMIT 1  
+[2016-06-18 12:05:47] /mobile/index.php?act=goods&op=goods_list&keyword=&page=10&curpage=1 ( act=goods&op=goods_list ) 
+ERR: Db Error: Unknown column 'goods_id' in 'order clause'
+SELECT COUNT(*) AS nc_count FROM `33hao_goods_common` WHERE ( store_id = '1' ) AND ( goods_state = '1' ) AND ( goods_verify = '1' ) GROUP BY nc_distinct ORDER BY is_own_shop desc,goods_id desc LIMIT 1  
+[2016-06-18 12:06:07] /mobile/index.php?act=member_favorites&op=favorites_list&key=699b742d56c360027a4183872985f095&curpage=1&page=10 ( act=member_favorites&op=favorites_list ) 
+ERR: Db Error: Unknown column 'is_book' in 'where clause'
+SELECT goods_id,goods_name,goods_price,goods_image,store_id FROM `33hao_goods` WHERE ( goods_id IN('') ) AND ( is_book = '0' ) LIMIT 1000  
+[2016-06-18 12:16:29] /mobile/index.php?act=goods&op=goods_list&keyword=&page=10&curpage=1 ( act=goods&op=goods_list ) 
+ERR: Db Error: Unknown column 'goods_id' in 'order clause'
+SELECT COUNT(*) AS nc_count FROM `33hao_goods_common` WHERE ( store_id = '1' ) AND ( goods_state = '1' ) AND ( goods_verify = '1' ) GROUP BY nc_distinct ORDER BY is_own_shop desc,goods_id desc LIMIT 1  
